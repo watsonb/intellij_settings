@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="gcp_dev.ini" type="PLAIN_TEXT" />
-      <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="XML" />
     </extensionMap>
   </component>
 </application>
