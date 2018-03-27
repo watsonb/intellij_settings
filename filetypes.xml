@@ -4,6 +4,8 @@
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
+      <mapping pattern="gen-key-script" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
